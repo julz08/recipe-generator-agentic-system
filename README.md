@@ -1,5 +1,5 @@
 # RecipeFindr | Your Real-time Kitchen Agent
-We present to you, "RecipeFindr"! This is an agentic model that takes a user's image of their ingredients and creates a couple of recipes for them to follow. This model uses Agno, Groq, and Spoonacular API.
+You're looking at "RecipeFindr"! This is an agentic model that takes a user's image of their ingredients and creates a couple of recipes for them to follow. A group of two of my peers from MITES and I built this model using Agno, Groq, and Spoonacular API.
 
 We used Agno as our framework as it allowed our agents to work together in a seemless process. We used Groq as it allowed us to access API calls for free. We used Spoonacular API as it provided a database with access to thousands of recipes and have functions to search for ingredients.
 
