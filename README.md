@@ -12,6 +12,6 @@ We used Agno as our framework as it allowed our agents to work together in a see
 
 
 # Intructions to Setup
-Before you use this, feel free to you will need to create your own API Key for your agentic models (Groq, OpenAI, etc.) and store this in an .env file. After that, the code should be able to work.
+Before you use this, you will need to create your own API Key for your agentic models (Groq, OpenAI, etc.) and store this in an .env file. After that, the code should be able to work.
 
 To use this, you need to set up your Agno Playground. You can do this by inputting "ag setup" in your terminal. Afterwards, you can access the workflow in Agno's PLayground. Once you have that set up, you can start interacting with our agents!
